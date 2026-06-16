@@ -75,12 +75,14 @@ Pipeline ETL estilo producción que ingesta datos financieros (FX + crypto) en P
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
+
 **Backend**
 <p>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/>
 </p>
+
 **Bases de datos**
 <p>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
@@ -88,12 +90,14 @@ Pipeline ETL estilo producción que ingesta datos financieros (FX + crypto) en P
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
+
 **Cloud & DevOps**
 <p>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
 ---
  
 ## 📊 Actividad en GitHub
@@ -101,6 +105,7 @@ Pipeline ETL estilo producción que ingesta datos financieros (FX + crypto) en P
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Mikel26&theme=monokai&hide_border=false" alt="Mikel's GitHub Streak"/>
 </p>
+
 ---
  
 <p align="center">
